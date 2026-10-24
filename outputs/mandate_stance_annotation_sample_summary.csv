@@ -1,0 +1,21 @@
+party,phase,dictionary_screen,stratum,population,sample_n,sampling_weight
+Democratic,Omicron period,0,Democratic__Omicron period__0,6699,75,89.32
+Republican,Omicron period,1,Republican__Omicron period__1,777,75,10.36
+Democratic,Omicron period,1,Democratic__Omicron period__1,34,34,1
+Democratic,Vaccine rollout,1,Democratic__Vaccine rollout__1,98,75,1.30666666666667
+Democratic,Pre-vaccine contestation,1,Democratic__Pre-vaccine contestation__1,214,75,2.85333333333333
+Republican,Omicron period,0,Republican__Omicron period__0,4129,75,55.0533333333333
+Democratic,Delta and mandates,1,Democratic__Delta and mandates__1,227,75,3.02666666666667
+Democratic,Emergency onset,0,Democratic__Emergency onset__0,27992,75,373.226666666667
+Democratic,Delta and mandates,0,Democratic__Delta and mandates__0,11579,75,154.386666666667
+Republican,Pre-vaccine contestation,1,Republican__Pre-vaccine contestation__1,255,75,3.4
+Republican,Pre-vaccine contestation,0,Republican__Pre-vaccine contestation__0,11560,75,154.133333333333
+Republican,Delta and mandates,1,Republican__Delta and mandates__1,1143,75,15.24
+Democratic,Pre-vaccine contestation,0,Democratic__Pre-vaccine contestation__0,30816,75,410.88
+Republican,Emergency onset,1,Republican__Emergency onset__1,118,75,1.57333333333333
+Republican,Emergency onset,0,Republican__Emergency onset__0,14282,75,190.426666666667
+Democratic,Emergency onset,1,Democratic__Emergency onset__1,61,61,1
+Republican,Delta and mandates,0,Republican__Delta and mandates__0,6215,75,82.8666666666667
+Republican,Vaccine rollout,0,Republican__Vaccine rollout__0,10489,75,139.853333333333
+Republican,Vaccine rollout,1,Republican__Vaccine rollout__1,169,75,2.25333333333333
+Democratic,Vaccine rollout,0,Democratic__Vaccine rollout__0,23651,75,315.346666666667

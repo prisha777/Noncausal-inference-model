@@ -1,0 +1,2 @@
+status,total_sample,binary_labels_completed,severity_labels_completed,model_labels_available,model_label_sources
+awaiting_human_labels,400,0,0,400,keyword_baseline_not_for_final_inference

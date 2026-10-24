@@ -1,0 +1,8 @@
+shard,path,rows,file_size_bytes,model
+1,/Users/prishagoel/Documents/Codex/CCIR/health_polarization/data/intermediate/openai_label_batches/congress_covid_labels_001.jsonl,25000,52226316,gpt-5.5
+2,/Users/prishagoel/Documents/Codex/CCIR/health_polarization/data/intermediate/openai_label_batches/congress_covid_labels_002.jsonl,25000,52386101,gpt-5.5
+3,/Users/prishagoel/Documents/Codex/CCIR/health_polarization/data/intermediate/openai_label_batches/congress_covid_labels_003.jsonl,25000,52352576,gpt-5.5
+4,/Users/prishagoel/Documents/Codex/CCIR/health_polarization/data/intermediate/openai_label_batches/congress_covid_labels_004.jsonl,25000,52273610,gpt-5.5
+5,/Users/prishagoel/Documents/Codex/CCIR/health_polarization/data/intermediate/openai_label_batches/congress_covid_labels_005.jsonl,25000,52275754,gpt-5.5
+6,/Users/prishagoel/Documents/Codex/CCIR/health_polarization/data/intermediate/openai_label_batches/congress_covid_labels_006.jsonl,25000,52050020,gpt-5.5
+7,/Users/prishagoel/Documents/Codex/CCIR/health_polarization/data/intermediate/openai_label_batches/congress_covid_labels_007.jsonl,7736,16133781,gpt-5.5

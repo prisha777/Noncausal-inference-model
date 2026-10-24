@@ -1,0 +1,6 @@
+outcome,analysis_role,estimate,std.error,statistic,p.value,conf.low,conf.high,n,result_status
+cdc_covid_monthly__monthly_cases,secondary,-24205.3178980736,7730.94002675131,-3.13096697352666,0.00293589214153646,-39741.2235355643,-8669.41226058293,1450,baseline_diagnostic_not_for_inference
+cdc_covid_monthly__monthly_deaths,secondary,271.551700823519,80.4049823480504,3.37729942714307,0.00144145645107385,109.971839355064,433.131562291975,1450,baseline_diagnostic_not_for_inference
+cdc_covid_monthly__log1p_monthly_cases,primary,0.130340792346197,0.0693420947998187,1.87967774441302,0.066104843017022,-0.00900736425418658,0.269688948946581,1450,baseline_diagnostic_not_for_inference
+cdc_covid_monthly__log1p_monthly_deaths,primary,0.250899459419451,0.0792886711448633,3.16437967488506,0.00267022245331609,0.0915629093018498,0.410236009537052,1450,baseline_diagnostic_not_for_inference
+cdc_vaccination_monthly__new_fully_vaccinated_pct_points,secondary,0.18031379140759,0.18294665947523,0.985608548004146,0.329167175436503,-0.187331285189347,0.547958868004527,900,baseline_diagnostic_not_for_inference

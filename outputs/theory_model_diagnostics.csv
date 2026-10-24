@@ -1,0 +1,3 @@
+model,observations,accounts,states,months,fixed_effects,analysis_unit,uncertainty,status
+COVID posting rate,14608,524,50,30,month,account-month,standard errors clustered by account,supplementary adjusted comparison
+Selected mandate-conflict term use,150508,523,50,30,month,COVID-candidate tweet,standard errors clustered by account,supplementary adjusted comparison

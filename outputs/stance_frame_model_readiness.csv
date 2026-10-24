@@ -1,0 +1,2 @@
+status,detail
+stance_reliability_gate_failed,Models were not estimated. Stance reliability was alpha=-0.005. Do not adjudicate or model these labels; revise the codebook and have two people independently recode.

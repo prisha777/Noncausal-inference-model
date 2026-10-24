@@ -1,0 +1,17 @@
+coder_A,coder_B,n
+support,support,92
+neutral,support,98
+implicit_opposition,support,87
+explicit_opposition,support,82
+support,neutral,111
+neutral,neutral,81
+implicit_opposition,neutral,103
+explicit_opposition,neutral,80
+support,implicit_opposition,85
+neutral,implicit_opposition,95
+implicit_opposition,implicit_opposition,99
+explicit_opposition,implicit_opposition,88
+support,explicit_opposition,91
+neutral,explicit_opposition,89
+implicit_opposition,explicit_opposition,80
+explicit_opposition,explicit_opposition,84

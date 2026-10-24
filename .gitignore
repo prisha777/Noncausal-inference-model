@@ -1,0 +1,22 @@
+# macOS and editor files
+.DS_Store
+.vscode/
+
+# R temporary and local files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Large or locally stored research datasets
+/data/raw/
+/data/intermediate/
+/outputs/cleaned_tweets.csv
+/outputs/llm_labeling_batch.csv
+
+# Python temporary files and local secrets
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example

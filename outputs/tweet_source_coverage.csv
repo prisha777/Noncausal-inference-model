@@ -1,0 +1,2 @@
+source,loaded_rows,loaded_unique_tweet_ids,retained_rows,retained_unique_tweet_ids,study_start,study_end,source_selected
+zenodo_miller_jiang,1048515,1048507,1048507,1048507,2020-01-01,2022-06-30,TRUE

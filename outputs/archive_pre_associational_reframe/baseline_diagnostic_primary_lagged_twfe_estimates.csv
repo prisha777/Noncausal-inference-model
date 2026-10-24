@@ -1,0 +1,3 @@
+outcome,analysis_role,estimate,std.error,statistic,p.value,conf.low,conf.high,n,result_status
+cdc_covid_monthly__log1p_monthly_cases,primary,0.130340792346197,0.0693420947998187,1.87967774441302,0.066104843017022,-0.00900736425418658,0.269688948946581,1450,baseline_diagnostic_not_for_inference
+cdc_covid_monthly__log1p_monthly_deaths,primary,0.250899459419451,0.0792886711448633,3.16437967488506,0.00267022245331609,0.0915629093018498,0.410236009537052,1450,baseline_diagnostic_not_for_inference

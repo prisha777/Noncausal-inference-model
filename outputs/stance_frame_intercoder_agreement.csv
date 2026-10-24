@@ -1,0 +1,8 @@
+measure,n_double_coded,agreement,cohen_kappa,krippendorff_alpha_nominal,disagreements,reliability_gate_0_667,interpretation
+stance_label,1445,0.24636678200692,-0.00516441821247898,-0.00492059963279967,1089,FALSE,revise the code or coding rules before modeling
+frame_freedom_choice,1445,0.640138408304498,0.0328003480580063,0.0330727879387048,520,FALSE,revise the code or coding rules before modeling
+frame_government_overreach,1445,0.591695501730104,-0.0678739719575834,-0.0675713254967982,590,FALSE,revise the code or coding rules before modeling
+frame_safety_effectiveness,1445,0.611764705882353,-0.0163260086532107,-0.0159902609105573,561,FALSE,revise the code or coding rules before modeling
+frame_economic_harm,1445,0.633910034602076,0.0114374541706491,0.0116715136300232,529,FALSE,revise the code or coding rules before modeling
+frame_institutional_distrust,1445,0.599307958477509,-0.0326919445202178,-0.0324422946001313,579,FALSE,revise the code or coding rules before modeling
+frame_constitutional_rights,1445,0.642214532871972,0.0459293333963364,0.0449122645472805,517,FALSE,revise the code or coding rules before modeling

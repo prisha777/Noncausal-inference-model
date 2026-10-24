@@ -1,0 +1,15 @@
+metric,value,status
+normalized_tweets,1048507,informational
+unique_labeled_tweets,156509,informational
+label_coverage_all_tweets,0.1493,informational
+llm_candidate_tweets,154786,informational
+candidate_tweets_missing_labels,0,informational
+label_sources,keyword_baseline_not_for_final_inference,informational
+keyword_baseline_only,TRUE,informational
+batch_result_files_present,0,informational
+human_validation_status,awaiting_human_labels,informational
+human_binary_labels_completed,0,informational
+structured_labels_only,FALSE,fail
+labels_complete_for_candidate_universe,TRUE,pass
+validation_metrics_reviewed_and_approved,FALSE,fail
+treatment_ready_for_substantive_model,FALSE,fail

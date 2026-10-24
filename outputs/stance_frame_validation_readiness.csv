@@ -1,0 +1,2 @@
+status,total_items,coder_A_complete_items,coder_B_complete_items,invalid_label_cells,items_needing_adjudication,detail
+stance_reliability_gate_failed,1445,1445,1445,0,1389,Stance reliability was alpha=-0.005. Do not adjudicate or model these labels; revise the codebook and have two people independently recode.

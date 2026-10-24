@@ -1,0 +1,6 @@
+indicator,nonmissing_rows,states,months,ready,analysis_role
+cdc_covid_monthly__monthly_cases,1489,50,30,TRUE,contextual_indicator
+cdc_covid_monthly__monthly_deaths,1489,50,30,TRUE,contextual_indicator
+cdc_covid_monthly__log1p_monthly_cases,1489,50,30,TRUE,registered_health_indicator
+cdc_covid_monthly__log1p_monthly_deaths,1489,50,30,TRUE,registered_health_indicator
+cdc_vaccination_monthly__new_fully_vaccinated_pct_points,898,50,18,TRUE,contextual_indicator

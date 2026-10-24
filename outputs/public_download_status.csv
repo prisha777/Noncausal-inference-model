@@ -1,0 +1,2 @@
+source,title,file,size_bytes,url,destination,note,exists,local_size_bytes,complete
+zenodo_miller_jiang,Congressional Tweets,Congress_Tweets_20220630.xlsx,531856785,https://zenodo.org/api/records/8215566/files/Congress_Tweets_20220630.xlsx/content,/Users/prishagoel/Documents/Codex/CCIR/health_polarization/data/raw/zenodo_miller_jiang/Congress_Tweets_20220630.xlsx,Large Excel file. Use as the clean 117th Congress backbone and validation corpus.,TRUE,531856785,TRUE

@@ -1,0 +1,11 @@
+party,phase,accounts,all_tweets,dictionary_covid_tweets,mandate_opposition_tweets,covid_per_1000,mandate_opposition_percent,excluded_accounts
+Republican,Emergency onset,194,57474,13454,81,234.088457389428,0.602051434517616,ten accounts with the most mandate-conflict dictionary matches
+Republican,Pre-vaccine contestation,197,65428,10442,177,159.595280308125,1.69507757134649,ten accounts with the most mandate-conflict dictionary matches
+Republican,Vaccine rollout,244,86304,9855,134,114.189377085651,1.35971588026383,ten accounts with the most mandate-conflict dictionary matches
+Republican,Delta and mandates,244,84961,5837,863,68.7021103800567,14.7849922905602,ten accounts with the most mandate-conflict dictionary matches
+Republican,Omicron period,244,84317,4107,623,48.7090385094346,15.1692232773314,ten accounts with the most mandate-conflict dictionary matches
+Democratic,Emergency onset,243,110598,28053,61,253.648348071394,0.217445549495598,ten accounts with the most mandate-conflict dictionary matches
+Democratic,Pre-vaccine contestation,245,141939,31030,214,218.615038854719,0.689655172413793,ten accounts with the most mandate-conflict dictionary matches
+Democratic,Vaccine rollout,266,135806,23749,98,174.874453264215,0.412648953640153,ten accounts with the most mandate-conflict dictionary matches
+Democratic,Delta and mandates,267,118271,11806,227,99.8215961647403,1.92275114348636,ten accounts with the most mandate-conflict dictionary matches
+Democratic,Omicron period,268,123764,6733,34,54.4019262467277,0.504975493836329,ten accounts with the most mandate-conflict dictionary matches

@@ -1,0 +1,31 @@
+party,phase,all_tweets,dictionary_covid_tweets,mandate_opposition_tweets,scheme,covid_per_1000,selected_term_percent
+Democratic,Emergency onset,110598,28053,61,Primary boundaries,253.648348071394,0.217445549495598
+Republican,Emergency onset,63231,14400,118,Primary boundaries,227.736395122646,0.819444444444445
+Democratic,Pre-vaccine contestation,141939,31030,214,Primary boundaries,218.615038854719,0.689655172413793
+Republican,Pre-vaccine contestation,73240,11815,255,Primary boundaries,161.318951392682,2.15827338129496
+Democratic,Vaccine rollout,135806,23749,98,Primary boundaries,174.874453264215,0.412648953640153
+Republican,Vaccine rollout,93377,10658,169,Primary boundaries,114.139456183,1.58566335147307
+Democratic,Delta and mandates,118271,11806,227,Primary boundaries,99.8215961647403,1.92275114348636
+Republican,Delta and mandates,93119,7358,1143,Primary boundaries,79.0171715761553,15.534112530579
+Democratic,Omicron period,123764,6733,34,Primary boundaries,54.4019262467277,0.504975493836329
+Republican,Omicron period,91592,4906,777,Primary boundaries,53.5636300113547,15.8377496942519
+Democratic,Emergency onset,88381,20481,50,Transitions one month earlier,231.735327728811,0.244128704653093
+Republican,Emergency onset,50405,11075,67,Transitions one month earlier,219.720265846642,0.604966139954853
+Democratic,Pre-vaccine contestation,145591,33684,157,Transitions one month earlier,231.360454973178,0.466096663104144
+Republican,Pre-vaccine contestation,75944,12957,256,Transitions one month earlier,170.612556620668,1.97576599521494
+Democratic,Vaccine rollout,133257,26630,160,Transitions one month earlier,199.839408061115,0.600826135936913
+Republican,Vaccine rollout,87046,11447,199,Transitions one month earlier,131.505181168578,1.73844675460819
+Democratic,Delta and mandates,121565,11887,168,Transitions one month earlier,97.7830790112286,1.41330865651552
+Republican,Delta and mandates,96384,7528,864,Transitions one month earlier,78.1042496679947,11.4771519659936
+Democratic,Omicron period,141584,8689,99,Transitions one month earlier,61.3699288055148,1.13937161928876
+Republican,Omicron period,104780,6130,1076,Transitions one month earlier,58.5035312082459,17.5530179445351
+Democratic,Emergency onset,133959,32562,78,Transitions one month later,243.07437350234,0.239543025612677
+Republican,Emergency onset,73944,15893,162,Transitions one month later,214.932922211403,1.0193166802995
+Democratic,Pre-vaccine contestation,141113,30313,251,Transitions one month later,214.81365997463,0.828027578926533
+Republican,Pre-vaccine contestation,74731,11477,228,Transitions one month later,153.577497959348,1.98658185937092
+Democratic,Vaccine rollout,134213,22167,48,Transitions one month later,165.16283817514,0.216538097171471
+Republican,Vaccine rollout,96792,11001,229,Transitions one month later,113.656087279941,2.08162894282338
+Democratic,Delta and mandates,117003,11883,229,Transitions one month later,101.561498423117,1.92712278044265
+Republican,Delta and mandates,91683,7490,1415,Transitions one month later,81.6945344284109,18.8918558077437
+Democratic,Omicron period,104090,4446,28,Transitions one month later,42.7130367950812,0.629779577147998
+Republican,Omicron period,77409,3276,428,Transitions one month later,42.3206603883269,13.0647130647131
